@@ -1,0 +1,9 @@
+{
+  "name": "Copy of 渔乐智能 (SmartFisher)",
+  "description": "基于AI的智能钓鱼助手，提供鱼种识别、天气分析及垂钓日记功能。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
